@@ -1,0 +1,1 @@
+But, instead of using a merge commit, rebasing re-writes the project history by creating brand new commits for each commit in the original branch
